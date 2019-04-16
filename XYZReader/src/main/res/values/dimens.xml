@@ -1,0 +1,15 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">25sp</dimen>
+
+    <dimen name="collapsing_appbar_height">270dp</dimen>
+    <dimen name="swipe_refresh_margin_top">85dp</dimen>
+    <dimen name="detail_byline_text_size">12sp</dimen>
+    <dimen name="article_list_item_margin">8dp</dimen>
+    <dimen name="article_list_item_text_size">16sp</dimen>
+    <dimen name="article_list_item_subtitle_text_size">12sp</dimen>
+    <dimen name="list_top_padding">16dp</dimen>
+    <dimen name="list_bottom_padding">28dp</dimen>
+    <dimen name="list_side_padding">4dp</dimen>
+
+</resources>

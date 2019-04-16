@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="list_column_count">3</integer>
+    <dimen name="article_list_item_margin">16dp</dimen>
+    <dimen name="list_top_padding">0dp</dimen>
+    <dimen name="list_bottom_padding">0dp</dimen>
+    <dimen name="list_side_padding">0dp</dimen>
+    <dimen name="collapsing_appbar_height">200dp</dimen>
+</resources>

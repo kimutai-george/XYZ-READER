@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe_refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:visibility="invisible"
+        android:scrollbarStyle="outsideOverlay"
+        android:paddingTop="@dimen/list_top_padding"
+        android:paddingStart="@dimen/list_side_padding"
+        android:paddingEnd="@dimen/list_side_padding"
+        android:paddingBottom="@dimen/list_bottom_padding"
+        android:layoutAnimation="@anim/layout_animation_article_list"/>
+</android.support.v4.widget.SwipeRefreshLayout>

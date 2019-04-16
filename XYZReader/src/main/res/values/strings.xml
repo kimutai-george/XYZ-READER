@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+
+    <string name="book_cover">Book Cover</string>
+</resources>
